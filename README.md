@@ -13,3 +13,9 @@ Rename the project to HelpingHand before running
 3. Make sure to connect your smartphone with `usb debugging` enable
 
 4. or you can use an `Android virtual Device`
+
+ScreenShots:
+
+![alt text](./assets.s1.png)
+![alt text](./assets.s2.png)
+![alt text](./assets.s3.png)
