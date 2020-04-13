@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "23740794723",
+    "firebase_url": "https://helpinghand-4fdf1.firebaseio.com",
+    "project_id": "helpinghand-4fdf1",
+    "storage_bucket": "helpinghand-4fdf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23740794723:android:dc2bb1c64b0351cdf2f556",
+        "android_client_info": {
+          "package_name": "com.hrishikeshpathak.HelpingHand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23740794723-lvsek0cpf974gnd1l4gdh5us700317li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh3qYcoe3fqd6tjGiW36Qq0eZcmaeFTkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23740794723-lvsek0cpf974gnd1l4gdh5us700317li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
