@@ -16,6 +16,6 @@ Rename the project to HelpingHand before running
 
 ScreenShots:
 
-![alt text](./assets.s1.png)
-![alt text](./assets.s2.png)
-![alt text](./assets.s3.png)
+![]("./assets.s1.png")
+![]("./assets.s2.png")
+![]("./assets.s3.png")
