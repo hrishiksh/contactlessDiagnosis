@@ -1,5 +1,7 @@
 # HelpingHand
 
+This is an app that feature contactless communication between Doctor and Patient to prevent spreading Covid-19
+
 Rename the project to HelpingHand before running
 
 ## Getting Started
