@@ -18,4 +18,4 @@ ScreenShots:
 
 ![](./assets/s1.png)
 ![](./assets/s2.png)
-![](./assets.s3.png)
+![](./assets/s3.png)
